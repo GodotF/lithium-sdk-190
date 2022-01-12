@@ -1,0 +1,17 @@
+{
+  "name": "lithium-sdk-190",
+  "dependencies": {
+    "gulp": "3.9.1"
+  },
+  "devDependencies": {
+    "lithium-sdk": "1.9.0"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lithiumtech/lithium-sdk-190.git"
+  },
+  "license": "Apache 2.0"
+}
